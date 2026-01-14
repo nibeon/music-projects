@@ -1,2 +1,2 @@
 # music-projects
-My muisic projects
+My music projects
